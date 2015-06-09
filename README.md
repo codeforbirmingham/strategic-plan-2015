@@ -17,21 +17,18 @@ Here is our team:
   - Tait Wayland, Taitwayland@gmail.com
   - Marcus Dillavou
 2. Storyteller:
-  - Joseph Casper Baker
+  - Kathleen Hamrick
 3. Community Organizer:
-  - Deon Gordon
+  - Scott Wehby
+  - -Erika Bazo
 4. Delivery Lead:
-  - Braden Groom
-  - Erby Fischer
+  - David Grieser
+  - Matthew Leeds
 5. Municipal Partner:
   - Srikanth Karra, skarra@birminghamal.gov
 6. Data Wrangler:
   - Alexander Grüneberg
-7. Event Planner:
-  - Miranda McPherson
-8. Organizers:
-  - Ian Hoppe
-  - Scott Wehby
+
 
 
 
